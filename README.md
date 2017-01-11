@@ -1,16 +1,20 @@
-elevator pitch: 15-25 word explanation of your website
+### MVP:
+I would like to have a site that includes the following pages:
+* Home - visually appealing, immersive, and guides user through site. Multi-navigations, traditional and non-traditional
+* Routes - with a way of organizing the information by location or length of trip, weather its a loop or a through route
+ * An Example of a selected route
+* Gear
+ * two examples of a specified review of a piece of equipment
+* Plan - With information to help users think about food, drink. sleeping, routing, gear, navigation and places to go.
+* 101 - answering what is fast packing, where should you go, when should you go, how should you be prepared
+* Sign Up Form - Might just be a dropdown but something to capture email and contact information of readers
 
-who / what / when / where / why: explain to me why this website needs to be made, who it's for and what problem it's solving
-basic features /
+I would like to show my ability to anticipate a readers needs, show how good design can lead a user through a website. I would also like to show my understanding of clever CSS styling, well written HTML and ability to implement jquery libraries.
 
-content: write a longer description of the basic features of your website
 
-sitemap: list all the pages you will be creating / designing for your site with a minimum of 5 pages
-
-libraries: list any 3rd party libraries or special features you will use for your app. include things such as jquery libraries, fonts, font icons, grid frameworks, etc.
 
 ### Elevator Pitch:
-* I plan to build a website for Old Mountain Tours and Explorations. The main purpose of the site is to be a resource for those looking to explore and "adventure". The goal is to help establish the Old Mountain brand as an adventure authority ultimately driving. The site will feature articles on bike packing, trail running, and international Travel. Sites that I will model after are: http://theradavist.com/ and http://www.bikepacking.com/ .
+* I plan to build a website for Fast-packers looking for new routes/new gear and for those interested in Fast-packing for the first time. The main purpose of the site is to be a helpful and inspirational resource. The goal is to help establish the Old Mountain brand as an adventure authority ultimately driving. The site will feature articles on bike packing, trail running, and international Travel. Sites that I will model after are: http://theradavist.com/ and http://www.bikepacking.com/ .
 
 ### who / what / when / where / why:
 * This site exists for two clear reasons; 1.) to be a resource for those looking for help planning their next explore, 2.) to create Old Mountain as an authority in adventurous travel so that when they offer a lead/paid for trip more people are likely to sign up and pay for the service.
@@ -30,3 +34,4 @@ libraries: list any 3rd party libraries or special features you will use for you
 
 https://scrollrevealjs.org/
 http://kenwheeler.github.io/slick/ - carosel
+http://simpleslider.bitlabs.nl/ for top photos
